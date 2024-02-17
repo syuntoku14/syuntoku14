@@ -16,7 +16,7 @@ I am a Ph.D. student at The University of Tokyo in Japan (2022-). Check [my webs
 [![](https://github-readme-stats.vercel.app/api/pin/?username=syuntoku14&repo=pytorch-rl-il)](https://github.com/syuntoku14/pytorch-rl-il)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=syuntoku14&repo=Shumi-Note)](https://github.com/syuntoku14/Shumi-Note)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=matsuolab&repo=Variance-Weighted-MDVI)](https://github.com/matsuolab/Variance-Weighted-MDVI)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=matsuolab&repo=Uniform-PAC-Primal-Dual-CMDP)](https://github.com/matsuolab/Uniform-PAC-Primal-Dual-CMDP)
 
 <!--
 **syuntoku14/syuntoku14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
